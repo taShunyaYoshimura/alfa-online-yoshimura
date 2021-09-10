@@ -15,9 +15,9 @@
   }
 }
 .section-title {
-  font-family: 'Noto Sans JP', sans-serif;
   font-size: 24px;
   line-height: (42/24);
+  font-family: 'Noto Sans JP', sans-serif;
   text-align: center;
   padding: ((60px-42)/2) 20px;
   background-color: #d9e021;
@@ -36,7 +36,6 @@
     background-color: #39b54a;
   }
   &--story {
-    font-family: 'Noto Sans JP', sans-serif;
     width: 330px;
     margin: 0 auto 20px;
   }
