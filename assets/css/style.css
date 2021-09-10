@@ -270,6 +270,8 @@ button {
 }
 
 .section-title {
+  font-family: 'Azeret Mono', monospace;
+  font-family: 'Noto Sans JP', sans-serif;
   font-size: 24px;
   line-height: 1.75;
   text-align: center;
